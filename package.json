@@ -1,0 +1,16 @@
+{
+  "name": "hello-npm",
+  "version": "0.1.0",
+  "description": "test npm file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "erica",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.10.4"
+  }
+}
